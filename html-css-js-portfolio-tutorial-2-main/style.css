@@ -444,3 +444,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.article-containers img {
+  height: 200px;
+  width: 70%;
+}
